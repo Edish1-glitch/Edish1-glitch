@@ -13,3 +13,5 @@ React · Vite · Tailwind
 ### יצירת קשר
 
 📧 edishteinberg10@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/edishteinberg)
