@@ -1,16 +1,15 @@
-## Hi there 👋
+## היי, אני אדווארד 👋
 
-<!--
-**Edish1-glitch/Edish1-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+בונה מוצרים דיגיטליים בעזרת כלי AI — מזיהוי הצורך ועד למוצר עובד. רקע של 6 שנים במסחר בשווקים הפיננסיים וניסיון ניהולי בסביבות תובענות. בתהליך מעבר לעולם הטכנולוגי, עם דגש על אפיון, פתרון בעיות ובדיקות.
 
-Here are some ideas to get you started:
+### פרויקטים
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[FinDash](https://github.com/Edish1-glitch/business-dashboard)** — מערכת לניהול חשבוניות והוצאות. מתחברת לתיבת המייל, מזהה חשבוניות אוטומטית (OCR בעברית ובאנגלית), מפרידה בין הוצאות עסקיות לפרטיות ושולחת לרו״ח.
+Next.js · TypeScript · Prisma · PostgreSQL · Docker
+
+**[מנהל משמרות אבטחה](https://github.com/Edish1-glitch/SecurityMorningSidur)** — שיבוץ אוטומטי תחת אילוצים: בניית סידור שמירה יומי לפי 8 חוקים מתנגשים, כולל התמודדות עם חוסר בכוח אדם. נבנה מתוך צורך אמיתי בעבודה.
+React · Vite · Tailwind
+
+### יצירת קשר
+
+📧 edishteinberg10@gmail.com
